@@ -1,0 +1,13 @@
+# environment
+.env
+
+# NPM
+node_modules
+
+# build
+dist
+db
+
+# IDE
+.idea
+
